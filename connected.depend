@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1373429298 source:f:\oop\connected\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+	<cv.h>
+
